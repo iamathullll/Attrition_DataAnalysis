@@ -1,1 +1,2 @@
 # Attrition_DataAnalysis
+This project focuses on analyzing employee data to uncover key insights related to attrition, job satisfaction, salary distribution, and organizational diversity. Using SQL, the analysis identifies factors that influence employee turnover, compensation equity, and career progression, providing data-driven recommendations to improve employee retention and workplace satisfaction.
